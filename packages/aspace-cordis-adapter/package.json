@@ -1,1 +1,30 @@
-{"author":"A'Space (Ryan Factory)","dependencies":{"@cordisjs/plugin-hmr":"^1.1.2","cordis":"^4.0.0-rc.12"},"description":"A'Space adapter over Cordis — the only A'Space code in this fork","files":["lib"],"homepage":"https://aspaceos.tech/","keywords":["aspace","cordis","adapter","hmr"],"license":"MIT","main":"lib/index.js","name":"@aspace/cordis-adapter","repository":{"directory":"packages/aspace-cordis-adapter","type":"git","url":"git+https://github.com/Amdkn/cordis.git"},"sideEffects":false,"type":"module","typings":"lib/index.d.ts","version":"0.1.0"}
+{
+  "author": "A'Space (Ryan Factory)",
+  "dependencies": {
+    "@cordisjs/plugin-hmr": "^1.1.2",
+    "cordis": "^4.0.0-rc.12"
+  },
+  "description": "A'Space adapter over Cordis — the only A'Space code in this fork",
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://aspaceos.tech/",
+  "keywords": [
+    "aspace",
+    "cordis",
+    "adapter",
+    "hmr"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@aspace/cordis-adapter",
+  "repository": {
+    "directory": "packages/aspace-cordis-adapter",
+    "type": "git",
+    "url": "git+https://github.com/Amdkn/cordis.git"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "typings": "lib/index.d.ts",
+  "version": "0.1.0"
+}
